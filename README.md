@@ -110,56 +110,6 @@ Python-Lab/
 | Matplotlib | Data visualization |
 | Git & GitHub | Version control and collaboration |
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/AsadullahA1/Python-Lab.git
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd Python-Lab
-```
-
-### 3. Create a Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-Activate it:
-
-**Windows:**
-```powershell
-.venv\Scripts\activate
-```
-
-**Linux / Ubuntu:**
-```bash
-source .venv/bin/activate
-```
-
-### 4. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5. Run Python Programs
-
-```bash
-python filename.py
-```
-
-For Jupyter Notebook:
-
-```bash
-pip install notebook
-jupyter notebook
-```
 
 ## 💡 Learning Philosophy
 
